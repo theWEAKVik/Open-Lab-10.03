@@ -17,14 +17,12 @@ namespace ConsoleApp1
         }
     }
     class BOOK
-    {
-        private string M = " ";
+    {        
         private string title;
         private int pages;
         private string category;
         private string author;
-        private int releaseDate;
-        private string hiolp;
+        private int releaseDate;        
         public string Title
         {
             get
